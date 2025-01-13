@@ -24,7 +24,7 @@ import (
 
 	"github.com/llgcode/draw2d/draw2dimg"
 	"github.com/llgcode/draw2d/draw2dkit"
-	"github.com/markfarnan/go-canvas/canvas"
+	"github.com/chrisarmitage/go-canvas/canvas"
 )
 
 type gameState struct{ laserX, laserY, directionX, directionY, laserSize float64 }

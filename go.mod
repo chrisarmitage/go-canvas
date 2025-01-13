@@ -1,4 +1,4 @@
-module github.com/markfarnan/go-canvas
+module github.com/chrisarmitage/go-canvas
 
 go 1.13
 
